@@ -1,0 +1,10 @@
+<fdm_config name="B787-10" version="2.0">
+  <metrics>
+    <wingarea unit="M2">370.0</wingarea>
+    <wingspan unit="M">60.1</wingspan>
+  </metrics>
+  <mass_balance>
+    <emptywt unit="KG">134800</emptywt>
+    <max_grosswt unit="KG">254000</max_grosswt>
+  </mass_balance>
+</fdm_config>

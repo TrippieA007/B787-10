@@ -1,0 +1,12 @@
+{
+  "name": "Boeing 787-10",
+  "author": "YourName",
+  "version": "0.1",
+  "description": "Placeholder 787-10 aircraft for GeoFS",
+  "model": "model/model.xml",
+  "flight_model": "jsbsim/aircraft.xml",
+  "instruments": "instruments/display.html",
+  "sounds": "",
+  "lights": {},
+  "features": {}
+}
